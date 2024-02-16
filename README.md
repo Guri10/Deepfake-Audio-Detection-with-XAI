@@ -1,7 +1,7 @@
 # Deepfake Audio Detector with XAI
 
 ## Project Overview
-This project is dedicated to addressing the issue of detecting deepfake audio by leveraging sophisticated neural network architectures like VGG16, MobileNet, ResNet, and custom CNNs. By integrating explainable AI (XAI) methodologies such as LIME, Grad-CAM, and SHAP, the project aims to not only improve detection accuracy but also offer meaningful insights into the model's predictions.
+This project is dedicated to addressing the issue of detecting deepfake audio by leveraging sophisticated neural network architectures like VGG16, MobileNet, ResNet, and custom CNNs. Employed GANs for audio content synthesis. By integrating explainable AI (XAI) methodologies such as LIME, Grad-CAM, and SHAP, the project aims to not only improve detection accuracy but also offer meaningful insights into the model's predictions.
 
 ## Technologies Used
 - **Deep Learning Models**: VGG16, MobileNet, ResNet, Custom CNNs
